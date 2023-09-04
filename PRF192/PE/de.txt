@@ -1,0 +1,4 @@
+Find max in 3 input numbers
+Calc 1 ^ 2 + 2 ^ 2 + ... + n ^2
+Replace x to 0 in 1-D array
+Convert string to lowercase then print reversed
